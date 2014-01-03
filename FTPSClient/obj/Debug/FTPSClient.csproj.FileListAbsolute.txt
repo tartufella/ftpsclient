@@ -1,0 +1,5 @@
+D:\Components.NET\AlexFTPS-1.1.0\FTPSClient\FTPSClient\bin\Debug\AlexPilotti.FTPS.Client.dll
+D:\Components.NET\AlexFTPS-1.1.0\FTPSClient\FTPSClient\bin\Debug\AlexPilotti.FTPS.Client.pdb
+D:\Components.NET\AlexFTPS-1.1.0\FTPSClient\FTPSClient\obj\Debug\AlexPilotti.FTPS.Client.dll
+D:\Components.NET\AlexFTPS-1.1.0\FTPSClient\FTPSClient\obj\Debug\AlexPilotti.FTPS.Client.pdb
+D:\Components.NET\AlexFTPS-1.1.0\FTPSClient\FTPSClient\obj\Debug\FTPSClient.csprojResolveAssemblyReference.cache

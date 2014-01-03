@@ -1,0 +1,1 @@
+D:\Components.NET\AlexFTPS-1.1.0\FTPSClient\FTPSClientCmdApp\bin\Debug\ftps.exe.config
